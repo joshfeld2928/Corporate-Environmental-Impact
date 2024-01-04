@@ -9,5 +9,5 @@ pandas,
 numpy, 
 matplotlib, 
 seaborn, 
-scipy, 
+scipy, and 
 scikit-learn
