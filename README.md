@@ -5,9 +5,9 @@ hypothesis test.
 
 # Installation
 This program uses the following packages and libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scipy
+pandas, 
+numpy, 
+matplotlib, 
+seaborn, 
+scipy, 
 scikit-learn
