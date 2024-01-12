@@ -1,0 +1,64 @@
+company,country,economic_sector,sub_industry,pollution,Total assets,Dividend,ROA,ROE,Direct emissions,Indirect emissions,quartile
+ACCENTURE PLC,Ireland,Technology,IT Consulting & Other Services,non polluter,16992039,44.66,18.14,51.47,26290,237239,Medium
+AIRBUS SE,Netherlands,Industrials,Aerospace & Defense,polluter,99922000,37.88,3.3,41.39,525883,401734,Huge
+AKZO NOBEL N.V.,Netherlands,Basic Materials,Speciality Chemicals,polluter,14906000,39.24,7.19,15.95,1500000,2300000,Large
+ALSTOM SA,France,Industrials,Construction Machinery & Heavy Transportation Equipment,polluter,32501000,0.0,-1.72,-15.67,54000,70000,Large
+AP MOELLER MAERSK,Denmark,Industrials,Marine Transportation,polluter,422739287,,1.62,2.15,33044000,415000,Huge
+ARCELORMITTAL SA,Luxembourg,Basic Materials,Steel,polluter,64673541,0.0,-8.49,-26.24,176000000,16000000,Huge
+BASF SE,Germany,Basic Materials,Diversified Chemicals,polluter,69045000,66.81,6.32,13.62,18375000,3795000,Huge
+CAPGEMINI SE,France,Technology,IT Consulting & Other Services,non polluter,14819000,20.23,9.48,18.82,9621,230527,Medium
+CARGOTEC CORP,Finland,Industrials,Industrial Machinery & Supplies & Components,polluter,3387200,36.2,4.63,11.22,8900,25500,Small
+CORBION NV,Netherlands,Basic Materials,Speciality Chemicals,polluter,792100,65.82,10.85,15.65,91000,88000,Small
+CRH PLC,Ireland,Basic Materials,Construction Materials,polluter,31858000,70.12,3.57,6.24,19700000,2100000,Large
+DAMPSKIBS NORDEN AS,Denmark,Industrials,Marine Transportation,polluter,11027237,0.0,-16.71,-29.89,454300,500,Large
+DASSAULT SYSTEMES,France,Technology,Application Software,polluter,6196146,29.51,7.35,12.54,4790,11810,Small
+DEUTSCHE POST AG,Germany,Industrials,Air Freight & Logistics,polluter,35863000,66.82,4.68,15.09,5600000,450000,Huge
+EATON CORP PLC,Ireland,Industrials,Electrical Components & Equipment,polluter,30669000,51.93,7.14,12.78,182840,909629,Large
+ENI GROUP,Italy,Energy,Integrated Oil & Gas,polluter,130443000,,-5.52,-15.75,42320000,620000,Huge
+EXPERIAN PLC,Ireland,Industrials,Research & Consulting Services,non polluter,5206275,45.98,10.21,25.75,4800,40900,Small
+FERROVIAL SA,Spain,Industrials,Construction & Engineering,polluter,24130000,72.1,5.14,12.28,495305,87871,Huge
+FLSMIDTH & CO A/S,Denmark,Basic Materials,Construction Machinery & Heavy Transportation Equipment,polluter,23266000,46.55,2.01,5.37,13460,33450,Large
+FOMENTO CONSTRUCCION,Spain,Industrials,Construction & Engineering,polluter,11830315,0.0,2.69,-19.24,8440377,681871,Large
+FRAPORT AG,Germany,Industrials,Airport Services,non polluter,8813900,45.06,4.31,8.31,39600,206600,Medium
+HAMBURGER HAFEN,Germany,Industrials,Marine Ports & Services,non polluter,1688968,64.38,4.79,12.49,74000,119000,Small
+HEIDELBERGCEMENT AG,Germany,Basic Materials,Construction Materials,polluter,27569400,30.53,4.23,5.7,47200000,5900000,Huge
+HELLEN PETR HOLD,Greece,Energy,Oil & Gas Refining & Marketing,polluter,7789045,0.0,3.36,3.07,3318920,893758,Medium
+HOCHTIEF,Germany,Industrials,Construction & Engineering,polluter,13099401,64.29,2.85,9.64,3100060,201874,Large
+IMERYS,France,Basic Materials,Construction Materials,polluter,6064300,,1.76,2.69,1725000,1056000,Small
+INDRA SISTEMAS SA,Spain,Technology,IT Consulting & Other Services,non polluter,2864282,0.0,-19.28,-103.84,958,23587,Small
+JOHNSON CONTROLS INT,Ireland,Industrials,Building Products,polluter,12321000,80.41,5.12,12.68,860485,1487110,Large
+KONE CORPORATION,Finland,Industrials,Industrial Machinery & Supplies & Components,polluter,7205900,69.68,15.59,45.42,102700,39800,Small
+KONECRANES ABP,Finland,Industrials,Industrial Machinery & Supplies & Components,polluter,1413200,,2.63,6.81,45500,17200,Small
+KONINKLIJKE BAM GRP,Netherlands,Industrials,Construction & Engineering,polluter,4600534,53.23,0.58,1.18,197000,15000,Medium
+KONINKLIJKE VOPAK NV,Netherlands,Energy,Oil & Gas Storage & Transportation,polluter,5483300,45.22,6.53,14.98,189320,260010,Small
+L'AIR LIQUIDE,France,Basic Materials,Industrial Gases,polluter,28706200,50.75,6.99,14.67,13552000,11716000,Large
+LANXESS AG,Germany,Basic Materials,Diversified Chemicals,polluter,6858000,33.28,3.0,7.38,1643000,2998000,Medium
+LEONARDO SPA,Italy,Industrials,Aerospace & Defense,polluter,25077000,0.0,2.53,12.5,272914,107315,Huge
+METSO OUTOTEC,Finland,Industrials,Construction Machinery & Heavy Transportation Equipment,polluter,1442800,0.0,-0.55,-4.01,4431,10046,Small
+NESTE OYJ,Finland,Energy,Oil & Gas Refining & Marketing,polluter,6764000,45.8,9.48,19.49,2932500,452300,Medium
+NOKIA OYJ,Finland,Technology,Communications Equipment,non polluter,18292000,38.7,14.05,25.8,18500,219300,Huge
+NOVOZYMES A/S,Denmark,Basic Materials,Specialty Chemicals,polluter,17332000,37.94,16.14,24.71,39000,334000,Medium
+OMV AG,Austria,Energy,Integrated Oil & Gas,polluter,31814000,,-2.31,-10.84,12200000,400000,Large
+OUTOKUMPU OYJ,Finland,Basic Materials,Steel,polluter,5858000,0.0,2.89,4.3,1231843,1016234,Medium
+POSTNL,Netherlands,Industrials,Air Freight & Logistics,polluter,2214000,0.0,8.52,,42000,40000,Medium
+REPSOL SA,Spain,Energy,Integrated Oil & Gas,polluter,58388000,,-1.3,-4.43,21040000,1200000,Huge
+REXEL S.A.,France,Industrials,Trading Companies & Distributors,non polluter,10763100,,0.76,0.39,77905,45379,Medium
+RHI MAGNES,Austria,Basic Materials,Construction Materials,polluter,1658400,,1.72,3.34,1399000,246000,Small
+SACYR SA,Spain,Industrials,Construction & Engineering,polluter,9665875,13.84,6.34,25.86,712753,60797,Large
+SBM OFFSHORE NV,Netherlands,Energy,Oil & Gas Equipment & Services,polluter,10389801,,1.26,1.22,5456380,3878,Small
+SCHNEIDER ELECTRIC,France,Industrials,Electrical Components & Equipment,polluter,40073000,80.79,4.22,6.93,90054,377633,Huge
+SEAGATE TECHNOLOGY,Ireland,Technology,"Technology Hardware, Storage & Peripherals",non polluter,9349000,,20.46,59.56,302387,999652,Medium
+SIEMENS AG,Germany,Technology,Industrial Conglomerates,polluter,117757000,39.58,7.17,22.26,907000,1222000,Huge
+SOCIETE B I C SA,France,Industrials,Office Services & Supplies,non polluter,2372436,49.34,14.13,18.75,9061,89580,Small
+STMICROELECTRONICS,Netherlands,Technology,Semiconductors,polluter,7833105,,2.43,3.31,575000,748000,Medium
+STORA ENSO OYJ,Finland,Basic Materials,Paper Products,polluter,12115000,32.25,7.93,15.43,2240000,1190000,Large
+STRABAG SE,Austria,Industrials,Construction & Engineering,polluter,10436940,42.67,2.09,5.28,892154,205827,Medium
+TENARIS S.A.,Luxembourg,Energy,Oil & Gas Equipment & Services,polluter,13526053,,-0.38,-0.68,1800960,1329280,Medium
+THALES SA,France,Industrials,Aerospace & Defense,polluter,20593200,36.99,3.92,18.16,87720,136451,Large
+THYSSENKRUPP AG,Germany,Basic Materials,Steel,polluter,33663000,27.47,1.65,10.02,32600000,1200000,Huge
+TIETOEVRY,Finland,Technology,IT Consulting & Other Services,non polluter,1054700,,9.09,18.97,100,19633,Small
+TOTALENERG,France,Energy,Integrated Oil & Gas,polluter,203082342,,2.58,5.77,42000000,4000000,Huge
+UPM-KYMMENE OYJ,Finland,Basic Materials,Paper Products,polluter,13727000,43.68,7.45,11.88,3880000,2920000,Large
+VALLOUREC SA,France,Energy,Oil & Gas Equipment & Services,polluter,6842501,0.0,-9.5,-27.07,580313,422851,Medium
+VESTAS WIND SYSTEMS,Denmark,Energy,Heavy Electrical Equipment,non polluter,62959124,29.49,9.17,25.98,49000,67000,Huge
+WARTSILA OYJ,Finland,Industrials,Industrial Machinery & Supplies & Components,polluter,5432000,53.31,8.59,21.34,63441,60317,Small
