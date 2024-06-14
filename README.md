@@ -10,4 +10,4 @@ numpy,
 matplotlib, 
 seaborn, 
 scipy, and 
-scikit-learn
+scikit-learn.
